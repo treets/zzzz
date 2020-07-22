@@ -1,0 +1,23 @@
+{
+    "axes": [
+        {
+            "id": "axis1",
+            "address": "dummy",
+            "limits": {
+                "value": {
+                    "min": 30,
+                    "max": 80
+                }
+            },
+            "axisParams": {
+                "x": 0,
+                "y": 0,
+                "z": 1,
+                "xr": 1,
+                "yr": 0,
+                "zr": 0
+            }
+        }
+    ],
+    "kins": []
+}
